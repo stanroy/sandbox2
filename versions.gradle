@@ -1,0 +1,28 @@
+ext {
+    app_version = "1.0.0-SNAPSHOT"
+
+    compose_bom_version = "2023.10.00"
+    compose_activity_version = "1.8.0"
+    compose_constraint_layout_version = "1.0.1"
+    hilt_compose_nav_version = "1.0.0"
+
+    datastore_version = "1.0.0"
+    encrypted_shared_prefs_version = "1.0.0"
+    timber_version = "5.0.1"
+    nav_version = "2.7.4"
+    room_version = "2.5.2"
+    hilt_version = "2.48.1"
+    retrofit_version = "2.9.0"
+    okhttp_bom_version = "4.11.0"
+    moshi_retrofit_version = "2.9.0"
+    moshi_kotlin_version = "1.15.0"
+
+    splashscreen_version = "1.0.1"
+    lifecycle_version = "2.6.2"
+
+    smtp_version = "v0.1.1-release"
+    firebase_bom_version = "32.2.2"
+    mapbox_version = "10.16.1"
+
+    truth_version = "1.1.3"
+}
